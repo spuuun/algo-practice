@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "62cf3e85dd22155c58111790",
+    "name": "Socorro Hudson",
+    "company": "ZOMBOID",
+    "email": "socorrohudson@zomboid.com",
+    "directReports": [
+      {
+        "_id": "62cf3e85b49ae04fc429c86d",
+        "name": "Mcfarland Lindsey",
+        "company": "ACCEL",
+        "email": "mcfarlandlindsey@accel.com",
+        "directReports": []
+      },
+      {
+        "_id": "62cf3e853547c0641716bdb4",
+        "name": "Paul Barnes",
+        "company": "NETILITY",
+        "email": "paulbarnes@netility.com",
+        "directReports": [
+          {
+            "_id": "62cf3e85056c6aa507683bbe",
+            "name": "Louella Hayes",
+            "company": "COMSTRUCT",
+            "email": "louellahayes@comstruct.com",
+            "directReports": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "62cf3e856d123b388116917c",
+    "name": "Elsie Gregory",
+    "company": "URBANSHEE",
+    "email": "elsiegregory@urbanshee.com",
+    "directReports": []
+  },
+  {
+    "_id": "62cf3e850dcab6bc425a6164",
+    "name": "Pugh Wong",
+    "company": "MAXEMIA",
+    "email": "pughwong@maxemia.com",
+    "directReports": [
+      {
+        "_id": "62cf3e85eddaee4f83ee3668",
+        "name": "Shauna Parker",
+        "company": "SULFAX",
+        "email": "shaunaparker@sulfax.com",
+        "directReports": [
+          {
+            "_id": "62cf3e8514e38335a2aeb665",
+            "name": "Sonya Baker",
+            "company": "DIGIQUE",
+            "email": "sonyabaker@digique.com",
+            "directReports": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "62cf3e85d53ba7026343fed7",
+    "name": "Robert Berg",
+    "company": "ENDIPIN",
+    "email": "robertberg@endipin.com",
+    "directReports": [
+      {
+        "_id": "62cf3e85dd4739aabffd6f69",
+        "name": "Janice Davis",
+        "company": "MAGNEATO",
+        "email": "janicedavis@magneato.com",
+        "directReports": [
+          {
+            "_id": "62cf3e85b520fc4c5f255b34",
+            "name": "Eaton Bright",
+            "company": "RAMEON",
+            "email": "eatonbright@rameon.com",
+            "directReports": []
+          }
+        ]
+      },
+      {
+        "_id": "62cf3e8565675434bc104ff1",
+        "name": "Hull Robinson",
+        "company": "CAPSCREEN",
+        "email": "hullrobinson@capscreen.com",
+        "directReports": []
+      },
+      {
+        "_id": "62cf3e85bc4de6b2c4b675fd",
+        "name": "Ruiz Wyatt",
+        "company": "COMTOUR",
+        "email": "ruizwyatt@comtour.com",
+        "directReports": [
+          {
+            "_id": "62cf3e85ae872aac1b591dbb",
+            "name": "Corina Parrish",
+            "company": "DARWINIUM",
+            "email": "corinaparrish@darwinium.com",
+            "directReports": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "62cf3e857a6851b8e2c363d7",
+    "name": "Kane Lucas",
+    "company": "CORPORANA",
+    "email": "kanelucas@corporana.com",
+    "directReports": []
+  }
+]

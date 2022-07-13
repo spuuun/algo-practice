@@ -1,0 +1,106 @@
+[
+  {
+    "_id": "62cf3e00fb5cf23a5812a84a",
+    "name": "Richard Wells",
+    "company": "GRAINSPOT",
+    "email": "richardwells@grainspot.com",
+    "directReports": [
+      {
+        "_id": "62cf3e00508685db5ae4ffc1",
+        "name": "Vickie Battle",
+        "company": "RODEOMAD",
+        "email": "vickiebattle@rodeomad.com",
+        "directReports": [
+          {
+            "_id": "62cf3e0043ad2cece9ec993c",
+            "name": "Conley Moss",
+            "company": "ELPRO",
+            "email": "conleymoss@elpro.com",
+            "directReports": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "62cf3e00a4fdbd72f01c776a",
+    "name": "Leblanc Porter",
+    "company": "QUINEX",
+    "email": "leblancporter@quinex.com",
+    "directReports": []
+  },
+  {
+    "_id": "62cf3e001dfb7d069b17f53a",
+    "name": "Kerr Dejesus",
+    "company": "SUREPLEX",
+    "email": "kerrdejesus@sureplex.com",
+    "directReports": [
+      {
+        "_id": "62cf3e00cbace1e6aa68579a",
+        "name": "Bond Moran",
+        "company": "PROWASTE",
+        "email": "bondmoran@prowaste.com",
+        "directReports": []
+      },
+      {
+        "_id": "62cf3e006f325a6efd795a3c",
+        "name": "Chase Terrell",
+        "company": "TUBALUM",
+        "email": "chaseterrell@tubalum.com",
+        "directReports": []
+      },
+      {
+        "_id": "62cf3e002a136e305fa22b75",
+        "name": "Jacquelyn Francis",
+        "company": "EXOTERIC",
+        "email": "jacquelynfrancis@exoteric.com",
+        "directReports": []
+      }
+    ]
+  },
+  {
+    "_id": "62cf3e00a04baec7fc11bf25",
+    "name": "Potter Mendez",
+    "company": "EARTHMARK",
+    "email": "pottermendez@earthmark.com",
+    "directReports": [
+      {
+        "_id": "62cf3e003270309e2b03460a",
+        "name": "Sexton Humphrey",
+        "company": "HONOTRON",
+        "email": "sextonhumphrey@honotron.com",
+        "directReports": [
+          {
+            "_id": "62cf3e006a91913580a14f5b",
+            "name": "Priscilla Mcmillan",
+            "company": "PROXSOFT",
+            "email": "priscillamcmillan@proxsoft.com",
+            "directReports": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "62cf3e00a1c42edec94b583a",
+    "name": "Leonard Rowland",
+    "company": "DRAGBOT",
+    "email": "leonardrowland@dragbot.com",
+    "directReports": []
+  },
+  {
+    "_id": "62cf3e00dfec279f61425209",
+    "name": "Duncan Goodwin",
+    "company": "MEDIOT",
+    "email": "duncangoodwin@mediot.com",
+    "directReports": [
+      {
+        "_id": "62cf3e005a45e47490248b4a",
+        "name": "Park Miranda",
+        "company": "NIPAZ",
+        "email": "parkmiranda@nipaz.com",
+        "directReports": []
+      }
+    ]
+  }
+]
